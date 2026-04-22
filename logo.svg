@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MC2 wordmark reconstruction. Source site (mc2.engineer) uses typographic branding rather than a distinct mark. This is a fallback typographic logo built from Space Grotesk weights and the live-extracted accent #57F3E1. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" width="320" height="120" role="img" aria-label="MC2">
+  <style>
+    .wm { font-family: 'Space Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 700; }
+  </style>
+  <rect width="320" height="120" fill="#000000"/>
+  <text x="24" y="82" class="wm" font-size="78" fill="#FFFFFF" letter-spacing="-2">MC</text>
+  <text x="170" y="54" class="wm" font-size="44" fill="#57F3E1" letter-spacing="-1">2</text>
+</svg>
